@@ -120,9 +120,9 @@ Response is a opportunity analysis for each activity. Hourly weather forecast is
                             "wind_speed_10m": 3.9600000381469727,
                             "wind_speed_10m_in_range": true
                         },
-			                    .
-			                    .
-			                    .
+			.
+			.
+			.
                         {
                             "date": "Wed, 04 Sep 2024 23:00:00 GMT",
                             "rain": 0.0,
@@ -135,7 +135,7 @@ Response is a opportunity analysis for each activity. Hourly weather forecast is
                     ]
                 },
 		.
-		.	
+		.
 		.
                 {
                     "date": "2024-09-10 00:00:00+00:00",
@@ -149,9 +149,9 @@ Response is a opportunity analysis for each activity. Hourly weather forecast is
                             "wind_speed_10m": 12.181624412536621,
                             "wind_speed_10m_in_range": false
                         },
-			                    .
-			                    .
-			                    .
+			.
+			.
+			.
                         {
                             "date": "Tue, 10 Sep 2024 23:00:00 GMT",
                             "rain": 0.0,
