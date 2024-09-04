@@ -2,7 +2,7 @@ import React from "react";
 import { Container } from "@mui/material";
 import Navbar from "./components/Navbar";
 
-// The application layout.
+// The application layout
 
 const Layout = ({ children }) => {
   return (
