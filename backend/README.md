@@ -134,9 +134,9 @@ Response is a opportunity analysis for each activity. Hourly weather forecast is
                         }
                     ]
                 },
-          	    .
-		            .	
-		            .
+		.
+		.	
+		.
                 {
                     "date": "2024-09-10 00:00:00+00:00",
                     "hourly_data": [
