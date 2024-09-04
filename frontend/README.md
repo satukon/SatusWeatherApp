@@ -4,21 +4,25 @@
 Create a .env file first to the frontend root directory. Open file .env.example for instructions.
 
 ## Install dependencies (do this once)
-
-`npm install`
+```
+npm install
+```
 
 Download and install the required packages (specified in package.json).
 
 
 ## Run app in development mode (do this during development)
 
-`npm start`
-
+```
+npm start
+```
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser. The page will reload when you make changes.
 
 ### Builds
 
-`npm run build`
+```
+npm run build
+```
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
