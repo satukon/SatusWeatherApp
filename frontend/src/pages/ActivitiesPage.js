@@ -4,7 +4,7 @@ import ActivitiesSubPage from "./ActiviesSubPage";
 import H1 from "../components/H1";
 import ActivitiesTable from "../components/ActivitiesTable";
 
-// The page that displays the activities in a table.
+// The page that displays the activities in a table
 // Conditionally renders the subpage that allows user to add new activities when "Add new" button is clicked.
 
 const ActivitiesPage = () => {

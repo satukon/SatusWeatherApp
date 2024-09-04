@@ -51,6 +51,7 @@ Array with max 10 objects.
   {
     "admin1": "North Karelia Region",
     "country": "Finland",
+    "id": 1,
     "latitude": 62.60118,
     "longitude": 29.76316,
     "name": "Joensuu"

@@ -20,6 +20,7 @@ def test_search_happy_path(client):
         {
             "admin1": "North Savo",
             "country": "Finland",
+            "id": 1,
             "latitude": 63.08333,
             "longitude": 27.66667,
             "name": "Siilinjärvi",
