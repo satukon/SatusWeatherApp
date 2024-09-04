@@ -1,7 +1,7 @@
 # Getting Started
 
 ## Create .env file
-Create a .env file first. Open file .env.example for instructions.
+Create a .env file first to the frontend root directory. Open file .env.example for instructions.
 
 ## Install dependencies (do this once)
 
