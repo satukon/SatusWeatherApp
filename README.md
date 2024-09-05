@@ -17,7 +17,8 @@ Set up weather conditions for different outdoor activities and get weather forec
 - Activity data is stored to browser's local storage for improved usability
 
 ## Ideas for further development
-- More detailed data of the daily forecasts could be shown. For example: if weather conditions for an activity are not met, why?
+- Frontend: more detailed data of the daily forecasts could be shown. For example: if weather conditions for an activity are not met, why?
+- Backend: make a more dynamic approach for getting the weather parameters (temperature, rain, windspeed...) from Open Meteo
 
 ## Prerequisites
 
