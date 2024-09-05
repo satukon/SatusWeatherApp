@@ -1,4 +1,4 @@
-# Getting Started
+# Getting started
 
 ## Create .env file
 Create a .env file first to the frontend root directory. Open file .env.example for instructions.
