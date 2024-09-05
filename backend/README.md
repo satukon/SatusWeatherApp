@@ -64,7 +64,7 @@ Array with max 10 objects.
 
 ### Request
 Weather data is currently fetched by location and returns hourly forecast for next 7 days for params temp, windspeed and rain.
-After fetching the forecast from Open Meteo, the ctivity criterion variables are used to analyse the opprotunities.
+After fetching the forecast from Open Meteo, the min and max values of variables are used to analyze the opprotunities.
 
 ``` json
 {
