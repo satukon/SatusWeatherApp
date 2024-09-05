@@ -1,5 +1,5 @@
 # Satu's Weather App for Outdoor Activities
-Set up weather conditions for different (outdoor) activities and get weather forecasts for them!
+Set up weather conditions for different outdoor activities and get weather forecasts for them!
 
 ![forecast2](https://github.com/user-attachments/assets/81e8988d-f053-4614-ba4e-c8809def8ca3)
 
@@ -7,15 +7,17 @@ Set up weather conditions for different (outdoor) activities and get weather for
 
 ## Info
 - Project type: Solo
-- Technologies used: React.js, Python/Flask
-- Learning objectives: To show my knowledge and skill in web development and to learn data analysis basics with Pandas
+- Technologies used: React.js, Python/Flask/Pandas
+- Learning objectives: To show my knowledge and skill in web development, and to learn data analysis basics with Pandas.
 
 ## Features
-- Backend is integrated to Open Meteo's Free Weather API (https://open-meteo.com/) to get weather forecasts for locations
-- The data of activities is stored in browser's local storage to improve usability
+- Backend is integrated to Open Meteo's Free Weather API (https://open-meteo.com)
+- Pandas (https://pandas.pydata.org/) Python library was used in analyzing the weather data
+- MUI (https://mui.com/) React component library was used to speed up the frontend development
+- Activity data is stored to browser's local storage for improved usability
 
 ## Ideas for further development
-- To show user the reason if weather conditions are not met, more detailed data of the daily forecasts could be shown.
+- More detailed data of the daily forecasts could be shown. For example: if weather conditions for an activity are not met, why?
 
 ## Prerequisites
 
