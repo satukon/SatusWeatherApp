@@ -8,7 +8,7 @@ Set up weather conditions for different outdoor activities and get weather forec
 ## Info
 - Project type: Solo
 - Technologies used: React.js, Python with Flask framework
-- Objectives: To show my profiency in web development, and to learn data analysis basics with Pandas
+- Objectives: To show my profiency in fullstack web development, and to learn data analysis basics with Pandas
 
 ## Features
 - Backend is integrated to Open Meteo's Free Weather API (https://open-meteo.com)
