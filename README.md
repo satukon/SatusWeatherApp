@@ -1,5 +1,5 @@
 # Satu's Weather App for Outdoor Activities
-Set up weather conditions for different outdoor activities and get weather forecasts for them!
+Set up weather conditions for your favourite outdoor activities and get weather forecasts for them!
 
 ![forecast2](https://github.com/user-attachments/assets/81e8988d-f053-4614-ba4e-c8809def8ca3)
 
