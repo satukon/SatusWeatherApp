@@ -1,6 +1,6 @@
-## Satu's Weather App for Outdoor Activities
-- Want to find out easily if weather conditions favor your favourite outdoor activities?
-- With this application, you can define the suitable weather conditions for each of your favourite outdoor activities and get weather forecasts for them.
+## Planning your weekly sport activities made easy 
+- *I wonder if I could go stand-up paddling before the weekend or is it too windy and cold? Then again, is it windy enough to go sailing with Wendy on Saturday, or should I just go for a long walk then? Or is it going to rain? Then maybe we could go play Padel at the hall...*
+- With this application, you can find out the answers to all of those questions on one quick glance! Just define the weather conditions you prefer for each of your favourite  activities and get a weekly weather forecast tailored for those.
 
 ![forecast2](https://github.com/user-attachments/assets/81e8988d-f053-4614-ba4e-c8809def8ca3)
 
@@ -18,6 +18,9 @@
 
 **Backend**
 - Figure out a dynamic approach to get the weather parameters (temperature, rain, windspeed...) from Open Meteo's API
+
+**Overall**
+- Go beyond being a weather app and become a sports app. Make it possible to track activities and to build charts about user's monthly/yearly activity based on that data. It could also be interesting to see how weather affects user's activity: are they more active on good weather?
 
 ## Prerequisites
 - npm, Node.js and Python3 installed
