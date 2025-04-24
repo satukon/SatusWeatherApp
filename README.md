@@ -15,6 +15,7 @@
 - Switch to TypeScript
 - If weather conditions for an activity are not met, show a tooltip to describe which wather conditions weren't met
 - For each forecast day, render a button that will open a detailed weather report for the day
+- Dark mode
 
 **Backend**
 - Figure out a dynamic approach to get the weather parameters (temperature, rain, windspeed...) from Open Meteo's API
